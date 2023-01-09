@@ -6,8 +6,16 @@ I'm also more than happy for people to reach out to me to ask any questions abou
 
 ## 2021
 
-### Triple J's Hottest 100s of the 2010s
+### My 2021 Hottest 100 Top 10
 
 Code | Visualisation ***[TODO: add links]***
 
-For those unfamiliar, Triple J's Hottest 100 is a yearly institution of Australian music - and is cited as the world's largest musical democracy. Each year Australia's favourite songs from the Triple J radio station are voted on by the people to determine the 'hottest' 100 of the year. At the end of the 2010s, Triple J also held a Hottest 100 of the decade where votes were cast for the best songs of the past 10 years.
+***[TODO: add details]***
+
+
+
+### Triple J's Hottest 100s
+
+Code | Visualisation ***[TODO: add links]***
+
+For those unfamiliar, Triple J's Hottest 100 is a yearly institution of Australian music - and is cited as the world's largest musical democracy. Each year Australia's favourite songs from the Triple J radio station are voted on by the people to determine the 'hottest' 100 of the year.

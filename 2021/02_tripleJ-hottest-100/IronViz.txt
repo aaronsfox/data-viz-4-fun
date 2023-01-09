@@ -1,0 +1,50 @@
+The arts through generations
+
+Music as an art form and Triple J's hottest 100 as a representation of the 'generation' of the times music taste in Australia
+	> This is the story element - how has music taste changed over 'generations'
+
+Data and Visualisations
+- Spotify song data over the years - danceability etc. in point plot format over time
+	> Selectable to filter by parameter
+	
+- Breakdown of solo artist, band, gender etc.
+	> Stacked style column/bar chart
+	
+- Artist location of songs across the years
+	> Dot plots on world map
+	> How detailed is this?
+		>> Latitude/longitude = individual points
+		>> Country or continent = shading of that area on the map based on density
+	> MusicBrainz potentially has artist location if not on Spotify
+
+- Artist details
+	> Genres, followers, popularity
+
+- Sample of 'key' or 'top' artists
+	- Circular image with small paragraph
+	- Artist(s) with most entries over time
+	- Artist(s) with entries across the most years
+	- Artist(s) with biggest gap from first to most recent entry
+	- Timeline of sorts for artist entries? Filterable across artists?
+		
+- Release date/month
+	> What period of the year do songs more-so come from?
+	> Source the first play on triple J?
+	
+- Song duration
+	> Average song duration across years point plot over time
+	
+- Proportion of 'explicit' songs
+	> Stacked bar/column chart
+	
+- Plays on Spotify?
+	> What are the most played songs over time?
+		
+- Clickable prompts to list all songs and then individual data within these? Do-able?
+	> Have a section that you can scroll down to that lists the 100 songs from years data
+		>> Kind of a waste and not really a summary visualisation as a tabular list...
+	> Click on the song and a pop-up of the individual data for that song shows in a card - do-able?
+	
+Extras
+- Additional info on artist for location they're from?
+	> Use spotipy artist uri?
